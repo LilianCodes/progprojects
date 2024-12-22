@@ -1,0 +1,16 @@
+C:\Users\CanterLogan\source\repos\To-Do\bin\Debug\net8.0-windows\To-Do.exe
+C:\Users\CanterLogan\source\repos\To-Do\bin\Debug\net8.0-windows\To-Do.deps.json
+C:\Users\CanterLogan\source\repos\To-Do\bin\Debug\net8.0-windows\To-Do.runtimeconfig.json
+C:\Users\CanterLogan\source\repos\To-Do\bin\Debug\net8.0-windows\To-Do.dll
+C:\Users\CanterLogan\source\repos\To-Do\bin\Debug\net8.0-windows\To-Do.pdb
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To_Do.Form1.resources
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.vbproj.GenerateResource.cache
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.AssemblyInfoInputs.cache
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.AssemblyInfo.vb
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.vbproj.CoreCompileInputs.cache
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.dll
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\refint\To-Do.dll
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.pdb
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\To-Do.genruntimeconfig.cache
+C:\Users\CanterLogan\source\repos\To-Do\obj\Debug\net8.0-windows\ref\To-Do.dll
