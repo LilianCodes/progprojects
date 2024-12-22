@@ -1,0 +1,16 @@
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.frmGuessNum.resources
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.vbproj.GenerateResource.cache
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.AssemblyInfoInputs.cache
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.AssemblyInfo.vb
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.vbproj.CoreCompileInputs.cache
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\bin\Debug\net8.0-windows\RandomNumGuesser.exe
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\bin\Debug\net8.0-windows\RandomNumGuesser.deps.json
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\bin\Debug\net8.0-windows\RandomNumGuesser.runtimeconfig.json
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\bin\Debug\net8.0-windows\RandomNumGuesser.dll
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\bin\Debug\net8.0-windows\RandomNumGuesser.pdb
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.dll
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\refint\RandomNumGuesser.dll
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.pdb
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\RandomNumGuesser.genruntimeconfig.cache
+C:\Users\CanterLogan\source\repos\RandomNumGuesser\obj\Debug\net8.0-windows\ref\RandomNumGuesser.dll
