@@ -18,4 +18,6 @@ Simple Typer app created in Python that grabs data from CoinGecko Dogecoin API a
   `low`: Fetches 24 low<br/>
 
 ## How To Use
-Clone the repo or download via HTTPS. Run ``python main.py fetch-doge`` to see it in action. :)
+Clone the repo or download via HTTPS.<br/>
+Install requirements. - ``pip3 install -r requirements.txt``
+Run ``python main.py fetch-doge`` to see it in action. :)
