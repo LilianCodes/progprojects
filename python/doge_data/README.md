@@ -16,3 +16,6 @@ Simple Typer app created in Python that grabs data from CoinGecko Dogecoin API a
   `volume`: Fetches total trading volume,<br/>
   `high`: Fetches 24h high,<br/>
   `low`: Fetches 24 low<br/>
+
+## How To Use
+Clone the repo or download via HTTPS. Run ``python main.py fetch-doge`` to see it in action. :)
