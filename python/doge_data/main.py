@@ -78,7 +78,7 @@ def fetch_doge(
 
 def fetch_historical_data(days: int, download: bool):
     try:
-        doge_console.print(f"Blasting off to get information on the last {days} days!")
+        doge_console.print(f"Blasting off to get information on the last {days} days!", style="bold")
         params = {"vs_currency": "usd", "days": days}
         res = requests.get(
             HISTORIC_API_URL, params=params, headers={"User-Agent": "DogeCLI/1.0"}
@@ -108,7 +108,7 @@ def fetch_historical_data(days: int, download: bool):
 
         doge_console.print(his_table)
     except requests.exceptions.RequestException as e:
-        doge_console.print(f"Error fetching the data: {e}")
+        doge_console.print(f"Error fetching the data: {e}", style="bold red")
 
 
 def download_historical_data(data, days):
@@ -122,7 +122,7 @@ def download_historical_data(data, days):
 
         doge_console.print(f"Data has been saved!", style="bold yellow")
     except Exception as e:
-        doge_console.print(f"Error saving data to CSV: {e}")
+        doge_console.print(f"Error saving data to CSV: {e}", style="bold red")
 
 
 def download_data(data):
@@ -143,12 +143,12 @@ def download_data(data):
 def about():
     doge_console.print("Hello there! :)", style="bold yellow")
     doge_console.print(
-        "Created for u/TardigradeLove & others that will find it useful. <3"
+        "Created for [bold orange]u/TardigradeLove[/bold orange] & others that will find it useful. <3"
     )
     doge_console.print(
         "If you'd like to donate to this project\n"
         "My Doge address is as follows:\n"
-        "DApFtNUkEn5sSe3MbWD9TvffGCwWcLQUfd"
+        "[bold yellow]DApFtNUkEn5sSe3MbWD9TvffGCwWcLQUfd[/bold yellow]"
     )
 
 
